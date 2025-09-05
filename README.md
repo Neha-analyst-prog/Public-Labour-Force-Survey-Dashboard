@@ -1,4 +1,4 @@
-# PLFS Labour Dashboard (R Shiny)
+# Public Labour Force Survey Dashboard (R Shiny)
 
 📊 An interactive web dashboard built in R using Shiny to visualize key indicators from the Periodic Labour Force Survey (PLFS), India.
 
